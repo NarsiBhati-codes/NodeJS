@@ -4,7 +4,7 @@ const program = new Command();
 
 program
   .name("counter")
-  .description("CLI to do file based tasks")
+  .description("CLI to do file-based tasks")
   .version("0.8.0");
 
 program
